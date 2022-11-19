@@ -10,7 +10,7 @@
     "@vue/compiler-sfc": "3.0.0-alpha.4",
     "vue-loader": "16.0.0-alpha.2",
     "webpack": "4.41.5",
-    "webpack-cli": "^3.3.10",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "3.10.2"
   }
 }
